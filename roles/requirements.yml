@@ -1,0 +1,20 @@
+- src: https://github.com/red-tux/ansibletraining-windows.git
+  scm: git
+  name: windows
+
+- src: https://github.com/red-tux/ansibletraining-common.git
+  scm: git
+  name: common
+
+- src: https://github.com/jgalvez/django-role.git.git
+  scm: git
+  name: django
+
+- src: https://github.com/alram/ansible-postgres.git
+  scm: git
+  name: postgres
+
+- src: https://github.com/tuppercole/ansible-haproxy.git
+  scm: git
+  name: haproxy
+
